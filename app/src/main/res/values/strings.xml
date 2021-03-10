@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SliideTechnical</string>
+    <string name="dialog_remove_user_message">Are you sure you want to remove this user?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_user_title">Add User</string>
+    <string name="add_user_action">Add</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="wrong_email_error">Please insert a valid email</string>
+</resources>
